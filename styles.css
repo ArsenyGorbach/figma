@@ -9,9 +9,10 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-.body {
+.telo {
   width: 1171px;
   margin: 0 auto;
+  padding: 0px 30px 0px 30px;
 }
 
 .menu-container {
